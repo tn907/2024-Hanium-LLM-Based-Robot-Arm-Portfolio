@@ -1,6 +1,9 @@
 # 2024-Hanium-LLM-Based-Robot-Arm-Portfolio
 2024 Hanium ICT Mentoring award-winning robot arm project: LLM interaction, ROS control, and Pick &amp; Place performance improvement
 
+<img width="1063" height="598" alt="image" src="https://github.com/user-attachments/assets/4f990e83-34f5-4647-9f94-19e77a67eaaf" />
+<img width="1098" height="617" alt="image" src="https://github.com/user-attachments/assets/b5cc63b1-c0eb-4c91-9b92-8de894e22e49" />
+
 
 # 2024 Hanium ICT Mentoring - LLM-Based Robot Arm Interaction System
 
